@@ -14,10 +14,13 @@ service1  state  service2はスペース区切り
 内部での処理： p内のn個の要素のうち，open と一致する文字列の行を表示し、ファイル「output.txt」にコピーする
 
 */
-//追加
+
+
 
 #include <stdio.h>
 #include <string.h>
+
+printf ("aaaaaa");
 
 typedef struct // 1.構造体portscanの定義
 {
