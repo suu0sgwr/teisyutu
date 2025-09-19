@@ -1,0 +1,8 @@
+PORT			STATE	SERVICE
+    22	/tcp	open	ssh
+    53	/tcp	open	domain
+    80	/tcp	open	http
+   143	/tcp	open	imap
+   443	/tcp	open	https
+   993	/tcp	open	imaps
+  8080	/tcp	open	http-proxy
